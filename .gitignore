@@ -1,0 +1,3 @@
+data/raw/reviews_booking.csv
+data/processed/cleaned_data.csv
+data/results/analisis_sentimiento.csv

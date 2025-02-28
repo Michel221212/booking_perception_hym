@@ -1,0 +1,12 @@
+,País,Acomodación,Noches,Fecha hospedaje,Grupo viaje,Fecha reseña,Titulo,Calificación,Cosas Positivas,Cosas Negativas,reseña,Etiqueta,Opiniones,Comentarios,Sentimiento,Palabras_clave_positivas,Palabras_clave_negativas
+count,372768,19890,374604,374604,374602,374604,374604,137967.0,374604,374604,374604,374604,374604,374604,374604.0,374604,374604
+unique,210,63,48,42,4,1114,80230,,162964,133392,2,2,207656,207656,,132948,119843
+top,Colombia,Suite,1 noche,septiembre de 2022,En pareja,19 de septiembre de 2022,Excepcional,,No especificado,No especificado,Sí,Desconocida,No especificado No especificado,No especificado No especificado,,[],[]
+freq,171780,11750,177642,12723,136751,873,86428,,150201,204761,235689,236637,138943,138943,,161163,222866
+mean,,,,,,,,10.0,,,,,,,-0.2527849123340914,,
+std,,,,,,,,0.0,,,,,,,0.38491208051840775,,
+min,,,,,,,,10.0,,,,,,,-0.9989,,
+25%,,,,,,,,10.0,,,,,,,-0.5267,,
+50%,,,,,,,,10.0,,,,,,,-0.296,,
+75%,,,,,,,,10.0,,,,,,,0.0,,
+max,,,,,,,,10.0,,,,,,,0.9993,,
